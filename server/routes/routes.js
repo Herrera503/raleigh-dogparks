@@ -1,9 +1,9 @@
 const express = require('express');
 const request = require('request');
 const cloudinary = require('cloudinary');
-const CLOUDINARY_NAME1 = 'ddmeofkzuNew';
-const CLOUDINARY_KEY1 = '833162614866536New';
-const CLOUDINARY_SECRET1 = '7bChKulxDSPFbLgqSxIsSv3GcewNew';
+const CLOUDINARY_NAME1 = 'herrera503';
+const CLOUDINARY_KEY1 = '674962454631342';
+const CLOUDINARY_SECRET1 = 'ShF3S5GKkbmNraP8t3OfvQVMojs';
 const router = express.Router();
 
 cloudinary.config({ 
